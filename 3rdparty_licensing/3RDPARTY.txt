@@ -1,0 +1,3 @@
+This application contains the following 3rd party elements:
+
+* https://www.iconfinder.com/icons/9035939/moon_sharp_icon   MIT License
